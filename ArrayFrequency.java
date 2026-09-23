@@ -1,0 +1,5 @@
+public class ArrayFrequency {
+    public static void main(String[] args){
+        
+    }
+}
